@@ -1,0 +1,10 @@
+App website:
+https://www.habeats.app/
+
+App Prototype Source Code:
+https://github.com/WilliamIPark/habeats-mobile
+
+App Prototype Android Download Steps:
+1. Download app "Expo Client" onto Android phone.
+2. Visit https://expo.io/@williamipark/habeats-mobile on another device.
+3. Scan the QR code using the QR feature inside the "Expo Client" app.
