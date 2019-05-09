@@ -4,6 +4,7 @@
 
 **Habeats GitHub Prototype Repository**
 You can see the code for the application here. Most of the code that was wrote by myself can be viewed in the `/src` directory.
+https://github.com/WilliamIPark/habeats-mobile
 
 
 **Habeats Android Prototype**
