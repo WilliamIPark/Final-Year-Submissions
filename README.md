@@ -1,7 +1,5 @@
 ## William Park - Year 4 Interaction Design Submission
 
-
-
 ### Major Project
 
 **Habeats GitHub Prototype Repository**
@@ -23,13 +21,15 @@ https://www.habeats.app/
 ---
 
 ### Launch Strategy
+The launch strategy material can be found in the "Launch Strategy" directory of this repository.
+https://github.com/WilliamIPark/Final-Year-Submissions/tree/master/Launch%20Strategy
 
 ---
 
 
 ### Supporting Material
 
-**Research Material:**
+**Research Material**
 
 Design materials can be found in the "Supporting Material" directory of this repository. 
 https://github.com/WilliamIPark/Final-Year-Submissions/tree/master/Supporting%20Material
