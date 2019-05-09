@@ -31,11 +31,11 @@ https://www.habeats.app/
 
 **Research Material:**
 
-
-**Habeats Design Files**
-The following zip files contain both Affinity Designer files & raster exports from these files:
+Design materials can be found in the "Supporting Material" directory of this repository. 
+https://github.com/WilliamIPark/Final-Year-Submissions/tree/master/Supporting%20Material
 
 **Habeats Log**
 This is the GitHub Issues page that contains most of the features and bugs that I logged during development. It also contains some of my thoughts, in particular about the data structure that I had to work around and modify along the way.
+https://github.com/WilliamIPark/habeats-mobile/milestone/1?closed=1
 
 
