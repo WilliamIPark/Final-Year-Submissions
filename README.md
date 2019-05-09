@@ -31,7 +31,7 @@ https://www.habeats.app/
 
 **Research Material:**
 
----
+
 **Habeats Design Files**
 The following zip files contain both Affinity Designer files & raster exports from these files:
 
